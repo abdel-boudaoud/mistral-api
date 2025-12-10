@@ -1,0 +1,7 @@
+# Python Environment
+.venv/
+env/
+
+# Other common Python exclusions
+__pycache__/
+*.pyc
